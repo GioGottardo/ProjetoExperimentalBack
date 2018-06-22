@@ -1,0 +1,5 @@
+br\com\projeto\pessoa_repository\PessoaRepository.class
+br\com\projeto\pessoa_model\PessoaModel.class
+br\com\projeto\pessoa_server\PessoaServiceApplication.class
+br\com\projeto\pessoa_model\ResponseModel.class
+br\com\projeto\pessoa_service\PessoaService.class
